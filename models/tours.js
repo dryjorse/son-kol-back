@@ -1,4 +1,4 @@
-const getImage = (id) => `http://localhost:3001/images/tours/tour${id}.jpg`;
+const getImage = (id) => `https://slate-gray-barnacle-hat.cyclic.app/images/tours/tour${id}.jpg`;
 
 const tours = [
   {
