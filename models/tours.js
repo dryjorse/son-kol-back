@@ -47,9 +47,9 @@ tours.forEach((tour, i) => {
   tour["id"] = i + 1;
   tour["minor_photos"] = [
     "https://slate-gray-barnacle-hat.cyclic.app/images/tour/photo1.jpg",
-    "https://slate-gray-barnacle-hat.cyclic.app/images/photo2.jpg",
-    "https://slate-gray-barnacle-hat.cyclic.app/images/photo3.jpg",
-    "https://slate-gray-barnacle-hat.cyclic.app/images/photo4.jpg",
+    "https://slate-gray-barnacle-hat.cyclic.app/images/tour/photo2.jpg",
+    "https://slate-gray-barnacle-hat.cyclic.app/images/tour/photo3.jpg",
+    "https://slate-gray-barnacle-hat.cyclic.app/images/tour/photo4.jpg",
   ];
   tour["dates"] = [
     "18.03.23 - 28.03.23",
@@ -66,8 +66,8 @@ tours.forEach((tour, i) => {
         description:
           "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page, It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page",
         images: [
-          "https://slate-gray-barnacle-hat.cyclic.app/images/review1.jpg",
-          "https://slate-gray-barnacle-hat.cyclic.app/images/review2.jpg",
+          "https://slate-gray-barnacle-hat.cyclic.app/images/reviews/review1.jpg",
+          "https://slate-gray-barnacle-hat.cyclic.app/images/reviews/review2.jpg",
         ],
         date: {
           month: "July 11",
@@ -80,8 +80,8 @@ tours.forEach((tour, i) => {
         description:
           "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page, It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page",
         images: [
-          "https://slate-gray-barnacle-hat.cyclic.app/images/review1.jpg",
-          "https://slate-gray-barnacle-hat.cyclic.app/images/review2.jpg",
+          "https://slate-gray-barnacle-hat.cyclic.app/images/reviews/review1.jpg",
+          "https://slate-gray-barnacle-hat.cyclic.app/images/reviews/review2.jpg",
         ],
         date: {
           month: "July 11",
